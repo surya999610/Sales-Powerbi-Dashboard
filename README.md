@@ -51,11 +51,11 @@ The dashboard includes:
 - Region-wise performance analysis  
 - Interactive filters (slicers) for deep insights
 - <a href="https://github.com/surya999610/Sales-Powerbi-Dashboard/blob/main/Pbix%20file/sales%20dashboard.pbix"> Dashboard <a/> 
-<img width="1743" height="737" alt="OLA Sheet 1" src="https://github.com/surya999610/Sales-Powerbi-Dashboard/blob/main/Image/Page%201.png" />
-<img width="1743" height="737" alt="OLA Sheet 1" src="https://github.com/surya999610/Sales-Powerbi-Dashboard/blob/main/Image/Page%202.png" />
-<img width="1743" height="737" alt="OLA Sheet 1" src="https://github.com/surya999610/Sales-Powerbi-Dashboard/blob/main/Image/Page%203.png" />
-<img width="1743" height="737" alt="OLA Sheet 1" src="https://github.com/surya999610/Sales-Powerbi-Dashboard/blob/main/Image/1%20slicer.png" />
----
+<img width="1743" height="737" alt="" src="https://github.com/surya999610/Sales-Powerbi-Dashboard/blob/main/Image/Page%201.png" />
+<img width="1743" height="737" alt="" src="https://github.com/surya999610/Sales-Powerbi-Dashboard/blob/main/Image/Page%202.png" />
+<img width="1743" height="737" alt="" src="https://github.com/surya999610/Sales-Powerbi-Dashboard/blob/main/Image/Page%203.png" />
+<img width="1743" height="737" alt="" src="https://github.com/surya999610/Sales-Powerbi-Dashboard/blob/main/Image/1%20slicer.png" />
+  
 
 ## ⚙️ How to Run This Project  
 
