@@ -8,7 +8,7 @@ An interactive Power BI dashboard that analyzes sales data to provide actionable
 ## 📖 Overview  
 This project focuses on building a comprehensive sales analytics dashboard using Power BI. The dashboard transforms raw sales data into meaningful visual insights, helping users understand business performance, trends, and key metrics.
 
-It enables stakeholders to monitor sales performance, identify growth opportunities, and make informed strategic decisions through interactive visualizations. Sales dashboards typically highlight KPIs, trends, and regional performance to improve business outcomes :contentReference[oaicite:0]{index=0}.
+It enables stakeholders to monitor sales performance, identify growth opportunities, and make informed strategic decisions through interactive visualizations. Sales dashboards typically highlight KPIs, trends, and regional performance to improve business outcomes.
 
 ---
 
