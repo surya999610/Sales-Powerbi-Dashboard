@@ -56,6 +56,7 @@ The dashboard includes:
 <img width="1743" height="737" alt="" src="https://github.com/surya999610/Sales-Powerbi-Dashboard/blob/main/Image/Page%203.png" />
 <img width="1743" height="737" alt="" src="https://github.com/surya999610/Sales-Powerbi-Dashboard/blob/main/Image/1%20slicer.png" />
   
+---
 
 ## ⚙️ How to Run This Project  
 
